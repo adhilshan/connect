@@ -4,7 +4,7 @@
 
 <h1>Screenshots</h1>
 
-<div style="display:flex; flew-wrap:wrap; justigy-content:center; gap:20px">
+<div style="display:flex; flew-wrap:wrap; justigy-content:center; gap:50px">
 <img src="/screenshots/sc1.jpg" alt="" style="width:200px">
 <img src="/screenshots/sc2.jpg" alt="" style="width:200px">
 <img src="/screenshots/sc3.jpg" alt="" style="width:200px">

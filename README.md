@@ -4,3 +4,7 @@
 
 <h1>Screenshots</h1>
 <img src="/screenshots/sc1.jpg" alt="" style="width:200px">
+<img src="/screenshots/sc2.jpg" alt="" style="width:200px">
+<img src="/screenshots/sc3.jpg" alt="" style="width:200px">
+<img src="/screenshots/sc4.jpg" alt="" style="width:200px">
+<img src="/screenshots/sc5.jpg" alt="" style="width:200px">
